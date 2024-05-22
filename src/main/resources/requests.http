@@ -22,6 +22,38 @@ Content-Type: application/json
   "text": "Privet!"
 }
 
+### Post "Kafman!"
+POST http://localhost:8080/
+Content-Type: application/json
+
+{
+  "text": "Kafman!"
+}
+
+### Post "Kafuto!"
+POST http://localhost:8080/
+Content-Type: application/json
+
+{
+  "text": "Kafuto!"
+}
+
+### Post "Naruto!"
+POST http://localhost:8080/
+Content-Type: application/json
+
+{
+  "text": "Naruto!"
+}
+
+### Post "Sasuke!"
+POST http://localhost:8080/
+Content-Type: application/json
+
+{
+  "text": "Sasuke!"
+}
+
 ### Get all the messages
 GET http://localhost:8080/
 
