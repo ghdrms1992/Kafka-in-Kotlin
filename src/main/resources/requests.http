@@ -7,7 +7,6 @@ Content-Type: application/json
 }
 
 ### Post "Bonjour!"
-
 POST http://localhost:8080/
 Content-Type: application/json
 
@@ -16,7 +15,6 @@ Content-Type: application/json
 }
 
 ### Post "Privet!"
-
 POST http://localhost:8080/
 Content-Type: application/json
 
@@ -28,4 +26,4 @@ Content-Type: application/json
 GET http://localhost:8080/
 
 ### Get the message by its id
-GET http://localhost:8080/7584c3ad-0e28-4082-90a5-0d91b3ecbfe9
+GET http://localhost:8080/ce4650a6-5c6e-4aae-914f-9ba91b7e709f
